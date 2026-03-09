@@ -22,4 +22,5 @@
 - Day 16: Today I improved code at the Project Coffee Machine. I'm implemented OOP (Object Oriented Programming).
 - Day 17: Today I created Quiz project with score. The project was created using OOP.
 - Day 18: Today I learned more about Turtle Graphic and to use. I make three project.
-- Day 19: I Created the Turtle Race. The project consisted in race of turtle with differents colors. I used the Turtle lib. 
+- Day 19: I Created the Turtle Race. The project consisted in race of turtle with differents colors. I used the Turtle lib.
+- Day 20: Today I start create the snake game with lib Turtle and OOP Architeture. Tomorrow I finally.
