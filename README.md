@@ -26,3 +26,4 @@
 - Day 20: Today I start create the snake game with lib Turtle and OOP Architeture. Tomorrow I finally.
 - Day 21: I'm Completed the Project Snake Game, today I implemeted the fuction for extend snake, game over when it occurs collision in wall or on tail. Today i learned better about slice list and inheritance.
 - Day 22: Today I Builded The pong game with Turtle lib. The project use keymap, for example w and s for control left paddle and up, down for right paddle. Once that the paddle misses, move speed ball increase.
+- Day 23: Today I created The Turtle Crossing Capstone Game. It is really cool, I used the Turtle Object as cars and all the cars have increasing speed in each level. I learned that to be develop is beyond write code, I need think, and split problems at segment.
