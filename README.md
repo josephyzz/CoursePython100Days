@@ -28,3 +28,4 @@
 - Day 22: Today I Builded The pong game with Turtle lib. The project use keymap, for example w and s for control left paddle and up, down for right paddle. Once that the paddle misses, move speed ball increase.
 - Day 23: Today I created The Turtle Crossing Capstone Game. It is really cool, I used the Turtle Object as cars and all the cars have increasing speed in each level. I learned that to be develop is beyond write code, I need think, and split problems at segment.
 - Day 24: Today I changed the Snake Game Project, adding the high score, moreover, today I learned about using files, directory, path and how edit file at python code. Also I created Mail Merge Project.
+- Day 25: Starting to learn about the csv module, and Pandas. 
