@@ -30,4 +30,4 @@
 - Day 24: Today I changed the Snake Game Project, adding the high score, moreover, today I learned about using files, directory, path and how edit file at python code. Also I created Mail Merge Project.
 - Day 25: Starting to learn about the csv module, and Pandas. I Builded US State Game and created script for read squirrel data csv.
 - Day 26: I learn about list and dictionary Comprehension and I created the Nato Alphabet project with pandas and Comprehension.
-- Day 27: Today I learn about Keyword Arguments (Kwargs) and args. Also learn about Tkinter (GUI).
+- Day 27: Today I learn about Keyword Arguments (Kwargs) and args. Also learn about Tkinter (GUI). The project today called mile to kilo converter.
