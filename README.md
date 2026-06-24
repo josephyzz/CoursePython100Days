@@ -32,3 +32,4 @@
 - Day 26: I learn about list and dictionary Comprehension and I created the Nato Alphabet project with pandas and Comprehension.
 - Day 27: Today I learn about Keyword Arguments (Kwargs) and args. Also learn about Tkinter (GUI). The project today called mile to kilo converter.
 - Day 28: Today I learn more about Tkinter, I builded the Pomodoro GUI Application Project and I studied around Dynamic Typing.
+- Day 29: Today, I focused on Password Manager GUI App Project with Tkinter. I unsed random and pyperclip libs for project, Is Amazing!
