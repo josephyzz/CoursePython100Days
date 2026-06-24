@@ -33,3 +33,4 @@
 - Day 27: Today I learn about Keyword Arguments (Kwargs) and args. Also learn about Tkinter (GUI). The project today called mile to kilo converter.
 - Day 28: Today I learn more about Tkinter, I builded the Pomodoro GUI Application Project and I studied around Dynamic Typing.
 - Day 29: Today, I focused on Password Manager GUI App Project with Tkinter. I unsed random and pyperclip libs for project, Is Amazing!
+- Day 30: Key accomplishments for today: Learned about Errors, Exceptions and Json Data. Also improved the Password Manager and Nato Phonetic alphabet projects. 
