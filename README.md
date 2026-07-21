@@ -35,3 +35,4 @@
 - Day 29: Today, I focused on Password Manager GUI App Project with Tkinter. I unsed random and pyperclip libs for project, Is Amazing!
 - Day 30: Key accomplishments for today: Learned about Errors, Exceptions and Json Data. Also improved the Password Manager and Nato Phonetic alphabet projects. 
 - Day 31: Today I Builded The Flash Card App Capstone Project, that was really cool, I used Tinker and pandas to development projects.
+- Day 32: Currently I Finished The Birthday Wisher Project, however, before that, I created a script to send motivational messages weekly. Briefly, Today I practiced tuples, dict Comprehension, csv and pandas contents and I learned about smtp protocol.
