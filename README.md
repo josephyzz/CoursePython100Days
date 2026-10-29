@@ -48,3 +48,4 @@
 - Day 42: Today I continue reviewed HTML concepts, I created Birthday invite page too.
 - Day 43: in this lesson, I reviewed CSS styleSheets, I write Color property.
 - Day 44: Current day, I review about fonts and CSS again. Today's project was 'Motivational Poster Website'.
+- Day 45: Hi, today I learned about scraping with Beautiful Soup of python. I created a project that catch hundred better movie title and added them to a text file.

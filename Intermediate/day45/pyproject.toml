@@ -1,0 +1,9 @@
+[project]
+name = "day45"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "josephyzz", email = "miguelneto275@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = ["beautifulsoup4", "requests"]
